@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "name": "PROS Project",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:\\Users\\gamin\\Downloads\\EZ-Template-3.2.2\\EZ-Template-3.2.2\\include",
+        "c:\\Users\\gamin\\Downloads\\T-Main V1.0\\include",
+        "c:\\Users\\gamin\\Documents\\T-Main\\T_Main\\T-Main V1.0\\include",
+        "c:\\Users\\gamin\\Documents\\T-Main\\T_Main\\T-Main V1.1\\include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "c:\\Users\\gamin\\AppData\\Roaming\\Code - Insiders\\User\\globalStorage\\sigbots.pros\\install\\pros-toolchain-windows\\usr\\bin\\arm-none-eabi-g++",
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++20",
+      "intelliSenseMode": "gcc-arm",
+      "browse": {
+        "path": [
+          "c:\\Users\\gamin\\Documents\\T-Main\\T_Main\\T-Main V1.1"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
